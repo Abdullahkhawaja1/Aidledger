@@ -100,3 +100,12 @@ PRs welcome. Please avoid committing large artifacts (dist, deployment zips, bac
 Proprietary – All rights reserved
 
 # Aidledger
+
+<img width="1680" height="959" alt="Screenshot 2025-10-31 at 4 15 28 AM" src="https://github.com/user-attachments/assets/0886c43e-e7ef-4930-8050-90b49204a255" />
+
+
+<img width="1680" height="959" alt="Screenshot 2025-10-31 at 4 17 07 AM" src="https://github.com/user-attachments/assets/a22142e9-8a7b-4012-ab2b-3f0b2ab53001" />
+
+
+
+
